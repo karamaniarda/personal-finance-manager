@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# User personal data and databases (DO NOT publish on GitHub!)
+*_data.json
+users.json
+settings.json
+
+# Windows shortcuts and system files
+*.lnk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
